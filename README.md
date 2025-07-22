@@ -21,7 +21,6 @@
 | Cors        | Обработка CORS             | 2.8+   |
 | Nodemon     | Автоперезагрузка в development | 2.0+  |
 | ts-node     | Запуск TypeScript без компиляции      |10.9+  |
-| CSS Modules | Стилизация                 | -      |
 
 
 ## Tasks
